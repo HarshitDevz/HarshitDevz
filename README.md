@@ -1,32 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+<!-- Wavy Animated Header Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=26&fontColor=ffffff&animation=twinkle" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Harshit;AI+%26+Machine+Learning+Developer;Python+Developer;DesignX26+Winner" alt="Typing SVG" />
+<!-- Fully Animated Multi-line Typing Title Dynamic Component -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=960&lines=⚡+Harshit;🤖+AI+%26+Machine+Learning+Developer;🐍+Python+Developer;🎨+DesignX26+Hackathon+Winner;🚀+Building+Intelligent+Solutions" alt="Typing SVG" />
 
 <br/>
 
+<!-- Real-time Status Badges -->
 <p>
-  <img src="https://img.shields.io/badge/AI_&_ML_Candidate-Chitkara_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_&_ML_Candidate-Chitkara_University-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Hamirpur,_H.P.,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Hamirpur,_H.P.,_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
+<!-- Interactive Live Call-to-Action Buttons -->
 <p>
   <a href="https://linkedin.com/in/harshitdevz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:harshhit.iui@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=HarshitDevz&color=7C3AED&style=flat-square&label=Profile+Views"/>
+<!-- Live Animated GitHub Traffic and Popularity Counters -->
+<img src="https://komarev.com/ghpvc/?username=HarshitDevz&color=7C3AED&style=flat-square&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/HarshitDevz?style=flat-square&color=6366F1&label=Followers"/>
+<img src="https://img.shields.io/github/followers/HarshitDevz?style=flat-square&color=6366F1&label=FOLLOWERS"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/HarshitDevz?style=flat-square&color=A78BFA&label=Stars"/>
+<img src="https://img.shields.io/github/stars/HarshitDevz?style=flat-square&color=A78BFA&label=STARS"/>
 
 </div>
 
@@ -34,33 +39,33 @@
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I am an **AI & ML Student** at **Chitkara University** with a focus on engineering intelligent systems and building functional software applications[cite: 1]. I enjoy working at the intersection of machine learning development, generative AI tools, and full-stack web architectures[cite: 1]. 
+I am an enthusiastic **AI & ML Student** at **Chitkara University** dedicated to engineering intelligent systems and solving real-world challenges through technology[cite: 1]. I construct applications right at the intersection of machine learning development, data analytics, and full-stack web architectures[cite: 1]. 
 
-From developing automated desktop assistants to processing data analytics and structuring web deployments, my goal is to build highly effective, data-driven AI solutions[cite: 1].
+Whether I am programming autonomous AI agents[cite: 1], engineering multi-turn context-aware chatbots, or developing highly interactive desktop workflow tools, my focus centers on building performant, data-driven software solutions[cite: 1].
 
-**Open to:** AI/ML Internships · Data Science Roles · Software Engineering Internships[cite: 1]
+**🎯 Open to:** AI/ML Internships · Data Science Roles · Software Engineering Tracks[cite: 1]
 
 ---
 
-## Tech Stack
+## 💻 Technical Ecosystem
 
-### Languages, Frameworks & Core Skills
+### Languages, Frameworks & Core Capabilities
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,cs,html,css&theme=dark"/>
 </p>
 
-### Databases & Developer Tools
+### Databases, Systems & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark"/>
 </p>
 
-> **Top Expertise:** Working with AI Agents · Machine Learning & Generative AI · Full Stack Web Development · Data Analytics[cite: 1]
+> **🌟 Core Focus Areas:** Working with AI Agents · Machine Learning & Generative AI · Full Stack Web Development · Data Analytics[cite: 1]
 
 ---
 
-## Featured Projects
+## 🚀 Interactive Engineering Showcases
 
 <details open>
 <summary><b>🎙️ ARVIS — AI Voice Assistant</b></summary>
@@ -81,7 +86,7 @@ From developing automated desktop assistants to processing data analytics and st
 </details>
 
 <details>
-<summary><b>🚀 Deployer — Student Marketplace Platform</b></summary>
+<summary><b>🔥 Deployer — Student Marketplace Platform</b></summary>
 
 <br/>
 
@@ -116,24 +121,22 @@ From developing automated desktop assistants to processing data analytics and st
 
 ---
 
-## Experience
+## 💼 Experience & Work History
 
-### Technical Team Member — ENIGMA CLUB @ Chitkara University
+### 🟣 Technical Team Member — ENIGMA CLUB @ Chitkara University
 `April 2026 – Present`[cite: 1]
-
 - Collaborating within the university's technical ecosystem to maintain community-driven platforms[cite: 1].
 - Contributing to core internal developer tasks and infrastructure alignment[cite: 1].
 
-### Web Developer Intern — SkillCraft Technology
+### 💻 Web Developer Intern — SkillCraft Technology
 `February 2026 – March 2026`[cite: 1]
-
 - **Frontend Implementations:** Coded responsive client websites using HTML, CSS, and JavaScript following practical workflows[cite: 1].
 - **Performance Tuning:** Worked on real-time client-based tasks, successfully increasing UI rendering speeds and responsiveness[cite: 1].
 - **Collaborative Engineering:** Engaged actively inside an agile team environment, developing essential teamwork and code synchronization skills[cite: 1].
 
 ---
 
-## Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
@@ -148,41 +151,44 @@ From developing automated desktop assistants to processing data analytics and st
 
 ---
 
-## GitHub Performance Metrics
+## 📊 Dynamic GitHub Performance Graphs
 
 <div align="center">
 
+<!-- Live GitHub Repository Analytics Streak -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshitDevz&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" />
 &nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitDevz&theme=tokyonight&border_radius=10" />
 
 <br/><br/>
 
+<!-- Real-time Top Languages Analytics Breakdown -->
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDevz&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" />
 
 </div>
 
 ---
 
-## Contribution Activity & Mini-Games
+## 🐍 Animated Contribution Grid Activity
 
 <div align="center">
 
-### 🐍 GitHub Contribution Grid Snake
+### Dynamic Snake Eating Contributions Graph
+<!-- Fully animated script-based contribution tracer graph -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## Current Focus Areas
+## 🔮 Current Focus Areas
 
 ```yaml
 Learning:
   - Advanced Deep Learning Structures & Core ML Optimizations
   - Complex Data Structures & Software Engineering Foundations
 Building:
-  - Autonomous AI Agents & generative script automation loops
-  - Custom responsive full-stack architectures
+  - Autonomous AI Agents & generative script automation loops[cite: 1]
+  - Custom responsive full-stack architectures[cite: 1]
 Exploring:
-  - Big data analytics workflows and contextual text generation
+  - Big data analytics workflows and contextual text generation[cite: 1]
