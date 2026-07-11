@@ -2,35 +2,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Harshit;AI+%26+Machine+Learning+Developer;Python+Developer;Web+Development+Intern" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Harshit;AI+%26+Machine+Learning+Developer;Python+Developer;DesignX26+Winner" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/BCA_AIML-Chitkara_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_&_ML_Candidate-Chitkara_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Hamirpur,_H.P.,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/harshit" target="_blank">
+  <a href="https://linkedin.com/in/harshitdevz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:harshhit.iui@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Harshit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Harshit&color=7C3AED&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=HarshitDevz&color=7C3AED&style=flat-square&label=Profile+Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Harshit?style=flat-square&color=6366F1&label=Followers"/>
+<img src="https://img.shields.io/github/followers/HarshitDevz?style=flat-square&color=6366F1&label=Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Harshit?style=flat-square&color=A78BFA&label=Stars"/>
+<img src="https://img.shields.io/github/stars/HarshitDevz?style=flat-square&color=A78BFA&label=Stars"/>
 
 </div>
 
@@ -40,78 +36,81 @@
 
 ## About Me
 
-I am a **BCA in (AI & ML)** candidate at **Chitkara University** with hands-on experience delivering real-world web solutions as a Web Development Intern. I possess a strong proficiency in Python, Machine Learning, and JavaScript, with a deep passion for building intelligent, user-centric applications.
+I am an **AI & ML Student** at **Chitkara University** with a focus on engineering intelligent systems and building functional software applications[cite: 1]. I enjoy working at the intersection of machine learning development, generative AI tools, and full-stack web architectures[cite: 1]. 
 
-I bridge the gap between AI modeling and full-stack integration—engineering everything from natural language desktop tools to beautifully responsive modern frontends. I love solving core algorithmic problems and integrating generative intelligence into scalable architectures.
+From developing automated desktop assistants to processing data analytics and structuring web deployments, my goal is to build highly effective, data-driven AI solutions[cite: 1].
 
-**Open to:** AI/ML Internships · Python Developer Roles · Full Stack / Frontend Engineering Internships
+**Open to:** AI/ML Internships · Data Science Roles · Software Engineering Internships[cite: 1]
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
-
+### Languages, Frameworks & Core Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cs,html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,cs,html,css&theme=dark"/>
 </p>
 
-### Databases & Tools
-
+### Databases & Developer Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark"/>
 </p>
+
+> **Top Expertise:** Working with AI Agents · Machine Learning & Generative AI · Full Stack Web Development · Data Analytics[cite: 1]
 
 ---
 
 ## Featured Projects
 
-<details>
-<summary><b>ARVIS — AI Voice Assistant</b></summary>
+<details open>
+<summary><b>🎙️ ARVIS — AI Voice Assistant</b></summary>
 
 <br/>
 
-> Architected a Python-powered intelligent voice assistant that interprets natural language commands and automates workflows.
+> A Python-powered voice assistant capable of processing natural language commands and managing desktop workflows.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | Python · NLP · SpeechRecognition |
-| **Domain** | Intelligent Automation / Conversational AI |
-| **Core Features** | Native system execution, workflow pipelines, natural language parsing |
+| **Libraries** | Pygame · Eel |
+| **Interface** | Custom desktop skins / Rainmeter aesthetic integration |
 
-**What it does:** Delivers a hands-free utility interface capable of interpreting voice intent, mapping requests to underlying OS tasks, and executing system commands natively with fine-tuned conversational feedback.
-
-</details>
-
-<details>
-<summary><b>AI Chatbot — Context-Aware Assistant</b></summary>
-
-<br/>
-
-> Conversational AI system integrating multi-turn dialog flow mechanisms with state-of-the-art Generative AI.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Rule-Based NLP · Generative AI |
-| **Scope** | Intelligent automated context tracking |
-| **UI/UX** | Fluid messaging interaction |
-
-**What it does:** Uses a hybrid architecture combining structural rule engines with deep generative systems to create human-like responses while maintaining contextual session memory across complex conversational threads.
+- **Workflow Automation:** Architected custom backends to handle native system tasks and command pipelines.
+- **Interactive UI:** Leveraged frontend rendering layers within Python to deliver rich desktop user interfaces.
 
 </details>
 
 <details>
-<summary><b>Personal Portfolio Website — Digital Hub</b></summary>
+<summary><b>🚀 Deployer — Student Marketplace Platform</b></summary>
 
 <br/>
 
-> A pixel-perfect, fully responsive web canvas displaying an immersive overview of engineered creations.
+> A dedicated web hub designed to serve as a deployment marketplace for student-built software applications.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | HTML5 · CSS3 · JavaScript |
-| **Design** | Mobile-First Principles · Cross-Device Alignment |
-| **Optimizations** | High-performance assets, fast load times, semantic accessibility |
+| **Core Concept** | Web Platform Marketplace |
+| **Target Architecture** | E-commerce / Independent Student Deployments |
+
+- Engineered monetization and showcasing layouts tailored to student developer applications.
+- Built modern routing frameworks to host distinct web structures cleanly.
+
+</details>
+
+<details>
+<summary><b>🤖 AI Chatbot — Context-Aware Dialog</b></summary>
+
+<br/>
+
+> A conversational chatbot incorporating smart text parsing rules alongside generative intelligence frameworks[cite: 1].
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Rule-Based NLP · Generative AI[cite: 1] |
+| **Logic** | Multi-turn dialog handling and contextual query answers |
+
+- Integrated automated language generation blocks into an active pipeline[cite: 1].
+- Developed clean script structures optimized for parsing text queries dynamically.
 
 </details>
 
@@ -119,71 +118,71 @@ I bridge the gap between AI modeling and full-stack integration—engineering ev
 
 ## Experience
 
-### Web Development Intern — SkillCraft Technology
-`Feb 2026 – Present`
+### Technical Team Member — ENIGMA CLUB @ Chitkara University
+`April 2026 – Present`[cite: 1]
 
-Embedded within an agile development workflow, managing modern web environments and database architectures.
+- Collaborating within the university's technical ecosystem to maintain community-driven platforms[cite: 1].
+- Contributing to core internal developer tasks and infrastructure alignment[cite: 1].
 
-- Engineered responsive modern websites using **HTML5, CSS3, and JavaScript** built completely under mobile-first guidelines.
-- Optimized frontend performance, directly accelerating page speeds and maximizing layout responsiveness.
-- Collaborated across multi-functional development squads to squash design bottlenecks and deploy iterative code revisions via **Git/GitHub**.
-- Implemented **Generative AI systems** and structured **SQL/MySQL databases** into live pipelines to improve platform delivery capabilities.
+### Web Developer Intern — SkillCraft Technology
+`February 2026 – March 2026`[cite: 1]
+
+- **Frontend Implementations:** Coded responsive client websites using HTML, CSS, and JavaScript following practical workflows[cite: 1].
+- **Performance Tuning:** Worked on real-time client-based tasks, successfully increasing UI rendering speeds and responsiveness[cite: 1].
+- **Collaborative Engineering:** Engaged actively inside an agile team environment, developing essential teamwork and code synchronization skills[cite: 1].
 
 ---
 
-## Certifications & Achievements
+## Achievements & Certifications
 
 <div align="center">
 
-| Recognition / Program | Organization / Authority | Timeline |
+| Recognition / Program / Certificate | Issuing Organization / Authority | Timeline |
 |---|---|---|
-| **Innovation Clinic Workshop** *(Patent Law & IP)* | Chitkara University (CA/CSI/Nov25/07) | Nov 2025 |
-| **Mera Yuva Bharat (VBYLD Certificate)** | Government of India (MY Bharat) | Oct 2025 |
-| **Technical & Academic Workshop Series** | Chitkara University (AI & ML Tracks) | 2025 |
+| 🏆 **DesignX Hackathon Winner** | DesignX26 | 2026[cite: 1] |
+| 🛡️ **Workshop on Innovation Clinic** *(Building, Fit & Filing Right)* | Chitkara University | Nov 2025[cite: 1] |
+| 🌐 **Generative AI Completion** | Certificate of Completion | 2025[cite: 1] |
+| 🇮🇳 **Mera Yuva Bharat (VBYLD Certificate)** | Government of India (MY Bharat) | Oct 2025[cite: 1] |
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Performance Metrics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Harshit&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshitDevz&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit&theme=tokyonight&border_radius=10&hide_border=false" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitDevz&theme=tokyonight&border_radius=10" />
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDevz&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Contribution Activity & Mini-Games
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harshit&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+### 🐍 GitHub Contribution Grid Snake
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## Current Focus
+## Current Focus Areas
 
 ```yaml
 Learning:
-  - Advanced Machine Learning Structures
-  - Data Structures & Algorithms
-  - Scalable Web Architecture
-
+  - Advanced Deep Learning Structures & Core ML Optimizations
+  - Complex Data Structures & Software Engineering Foundations
 Building:
-  - Contextual NLP Assistants & Voice Pipelines
-  - High-performance responsive web environments
-  - Relational Database Management Frameworks
-
+  - Autonomous AI Agents & generative script automation loops
+  - Custom responsive full-stack architectures
 Exploring:
-  - Generative AI agentic workflows
-  - Applied Data Science modeling
+  - Big data analytics workflows and contextual text generation
