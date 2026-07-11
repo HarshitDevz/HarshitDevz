@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Wavy Animated Header Header Banner -->
+<!-- Wavy Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=26&fontColor=ffffff&animation=twinkle" width="100%"/>
 
 <!-- Fully Animated Multi-line Typing Title Dynamic Component -->
@@ -17,6 +17,10 @@
 
 <!-- Interactive Live Call-to-Action Buttons -->
 <p>
+  <a href="https://h-devz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/harshitdevz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -43,7 +47,7 @@
 
 I am an enthusiastic **AI & ML Student** at **Chitkara University** dedicated to engineering intelligent systems and solving real-world challenges through technology[cite: 1]. I construct applications right at the intersection of machine learning development, data analytics, and full-stack web architectures[cite: 1]. 
 
-Whether I am programming autonomous AI agents[cite: 1], engineering multi-turn context-aware chatbots, or developing highly interactive desktop workflow tools, my focus centers on building performant, data-driven software solutions[cite: 1].
+Explore my live work and deployed platforms on my [Personal Portfolio](https://h-devz.vercel.app/)!
 
 **🎯 Open to:** AI/ML Internships · Data Science Roles · Software Engineering Tracks[cite: 1]
 
